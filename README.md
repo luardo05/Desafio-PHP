@@ -1,7 +1,3 @@
-Aqui está um modelo de **README.md** simples, direto e profissional para você incluir na raiz da pasta do seu projeto. Ele explica tudo o que alguém precisa para rodar o sistema.
-
----
-
 # 📅 Agenda Eletrônica PHP
 
 Este é um sistema de gerenciamento de atividades pessoais desenvolvido como desafio técnico. O projeto permite que usuários se cadastrem, façam login e gerenciem suas próprias atividades em uma interface de lista e calendário.
@@ -73,8 +69,3 @@ agenda/
 │   └── dashboard.php # Tela principal com Calendário
 └── README.md        # Instruções do projeto
 ```
-
----
-
-### Dica para a entrega:
-Se você for enviar por e-mail ou plataforma de teste, **zipe** a pasta inteira (exceto pastas temporárias do VS Code) e certifique-se de que o arquivo SQL está visível para quem for avaliar!
